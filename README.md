@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=athunlal&label=Profile%20views&color=0e75b6&style=flat" alt="athunlal" />
 </p>
 
-- 📫 How to reach me **aparnasukesh**
+- 📫 How to reach me **aparnasukesh0723@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
