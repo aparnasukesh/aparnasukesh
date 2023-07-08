@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aparna Sukesh</h1>
-<h3 align="center">A passionate GoLang developer from India</h3>
+<h3 align="center">A passionate GoLang developer</h3>
 <img align="right" alt="golang" width="150" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
 
 <p align="left">
